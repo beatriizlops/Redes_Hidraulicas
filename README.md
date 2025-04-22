@@ -1,5 +1,9 @@
 # Redes Hidráulicas
 
+## Versão de Python
+
+Python 3.11.9
+
 ## Antes de correr
 
 Deverá ter instalado `python` e `pip` de forma a conseguir correr o código. Caso tenha IDEs como por exemplo *PyCharm* ou semelhantes, este pré-requisito não se aplica
@@ -21,3 +25,4 @@ Antes de poder correr o código, deverá instalar as dependências correndo o se
 Para correr o código relativo ao projeto, deverá executar o seguinte comando:
 
 `python redeshidraulicas.py`
+
