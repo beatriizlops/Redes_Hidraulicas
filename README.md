@@ -24,5 +24,5 @@ Antes de poder correr o código, deverá instalar as dependências correndo o se
 
 Para correr o código relativo ao projeto, deverá executar o seguinte comando:
 
-`python redeshidraulicas.py`
+`python redes_hidraulicas.py`
 
